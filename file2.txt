@@ -10,5 +10,5 @@ this is for branch2
 update from branchA
 A
 B
-C
+B
 D
