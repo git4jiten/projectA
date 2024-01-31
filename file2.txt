@@ -6,3 +6,9 @@ this is for branch2
 	hello world
 	hi hello
 }
+
+update from branchA
+A
+B
+C
+D
